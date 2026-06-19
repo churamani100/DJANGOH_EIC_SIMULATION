@@ -1,0 +1,9 @@
+*.root
+*.hepmc
+*_evt.dat
+*_smp.dat
+*_rnd.dat
+nohup.out
+*.so
+*.pcm
+*.d

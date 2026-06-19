@@ -1,0 +1,329 @@
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat: **      BORN CROSS SECTION:    LPAR( 1) =      1     **
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat- **      1-LOOP CORRECTIONS:    LPAR( 2) =      1     **
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat- **      HIGHER ORDERS:         LPAR( 3) =      3     **
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat- **      MW OR GMU FIXED:       LPAR( 4) =      2     **
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat- **      MASS PARAM FROM INPUT: LPAR( 5) =      0     **
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat- **      STRUCTURE FUNCTIONS:   LPAR( 6) = 123041     **
+--
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat: CROSS SECTION (WITH ERROR ESTIMATE) FOR THE CHANNEL:
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat-     CHARGED CURRENT / ELASTIC + SOFT&VIRTUAL     
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat-       1.9253E-03 +/-   1.9253E-07  NB
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat-      RELATIVE ACCURACY REQUIRED:   1.0D-04
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat-
+--
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat: ACTUAL CROSS SECTION VALUES (WITH ERROR ESTIMATES) AFTER INTEGRATION
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat- ** NEUTRAL CURRENT: 
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat-    VIRTUAL & SOFT CONTRIBUTIONS  SIG2     0.0000E+00 +/-   0.0000E+00  NB
+--
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat: ** TOTAL CROSS SECTION:                   3.0338E-03 +/-   6.1030E-07  NB
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat- *** WARNING: Q2 OUT OF RANGE FOR POLARIZED PDF: 
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat-     Q2<   8.0000E-01   OCCURED        4     TIMES DURING INTEGRATION 
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat-     Q2 WAS SET TO THE LOWER LIMIT Q2MIND =   8.0000E-01
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat-
+--
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat: Phase space might be reduced and the total cross section
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat- possibly be renormalized.
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat: The correct value for the total cross section is stored in ---> PARL(24) <---
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat- ********************************************************
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat- Cross-section from HERACLES =  3.0338     pb
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat- Estimated relative error =     0.20E-03
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat-
+--
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat: CROSS SECTIONS ACTUALLY APPLIED FOR SAMPLING (IN NANOBARN): 
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat: TOTAL CROSS SECTION,  SIGTOT =                3.0338E-03 +/- 6.1030E-07
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat-CHARGED CURRENT / ELASTIC + SOFT&VIRTUAL       1.9253E-03 +/- 1.9253E-07
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat-CHARGED CURRENT / LEPT. INITIAL STATE RADIAT.  1.1085E-03 +/- 5.7914E-07
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat- Warning: x= 0.3100 or W/y=    0.0411 outside QCD grid in event no.       0
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat-          weight on limit of grid used. Only first   10 warnings printed
+--
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat: Cross section was corrected: 
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat- Not all events could be hadronized. 
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat: Total cross section is now    SIGTOT =  0.30338E+01 pb
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat- Distribution of flavors (DJ):
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat-          d         u         s         c         b         t
+cc_g5_eMinus_pMinus_9x275_q2_1000to3000_out.dat-          0    490123         0      5091         0         0
+--
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat: **      BORN CROSS SECTION:    LPAR( 1) =      1     **
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat- **      1-LOOP CORRECTIONS:    LPAR( 2) =      1     **
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat- **      HIGHER ORDERS:         LPAR( 3) =      3     **
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat- **      MW OR GMU FIXED:       LPAR( 4) =      2     **
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat- **      MASS PARAM FROM INPUT: LPAR( 5) =      0     **
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat- **      STRUCTURE FUNCTIONS:   LPAR( 6) = 123041     **
+--
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat: CROSS SECTION (WITH ERROR ESTIMATE) FOR THE CHANNEL:
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat-     CHARGED CURRENT / ELASTIC + SOFT&VIRTUAL     
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat-       5.9853E-03 +/-   5.9853E-07  NB
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat-      RELATIVE ACCURACY REQUIRED:   1.0D-04
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat-
+--
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat: ACTUAL CROSS SECTION VALUES (WITH ERROR ESTIMATES) AFTER INTEGRATION
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat- ** NEUTRAL CURRENT: 
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat-    VIRTUAL & SOFT CONTRIBUTIONS  SIG2     0.0000E+00 +/-   0.0000E+00  NB
+--
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat: ** TOTAL CROSS SECTION:                   9.5748E-03 +/-   2.1099E-06  NB
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat- *** WARNING: Q2 OUT OF RANGE FOR POLARIZED PDF: 
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat-     Q2<   8.0000E-01   OCCURED       63     TIMES DURING INTEGRATION 
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat-     Q2 WAS SET TO THE LOWER LIMIT Q2MIND =   8.0000E-01
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat-
+--
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat: Phase space might be reduced and the total cross section
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat- possibly be renormalized.
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat: The correct value for the total cross section is stored in ---> PARL(24) <---
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat- ********************************************************
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat- Cross-section from HERACLES =  9.5748     pb
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat- Estimated relative error =     0.22E-03
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat-
+--
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat: CROSS SECTIONS ACTUALLY APPLIED FOR SAMPLING (IN NANOBARN): 
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat: TOTAL CROSS SECTION,  SIGTOT =                9.5748E-03 +/- 2.1099E-06
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat-CHARGED CURRENT / ELASTIC + SOFT&VIRTUAL       5.9853E-03 +/- 5.9853E-07
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat-CHARGED CURRENT / LEPT. INITIAL STATE RADIAT.  3.5895E-03 +/- 2.0232E-06
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat- Warning: x= 0.1412 or W/y=    0.0031 outside QCD grid in event no.       0
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat-          weight on limit of grid used. Only first   10 warnings printed
+--
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat: Cross section was corrected: 
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat- Not all events could be hadronized. 
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat: Total cross section is now    SIGTOT =  0.95747E+01 pb
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat- Distribution of flavors (DJ):
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat-          d         u         s         c         b         t
+cc_g5_eMinus_pMinus_9x275_q2_100to1000_out.dat-          0    437884         0     22788         0         0
+--
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat: **      BORN CROSS SECTION:    LPAR( 1) =      1     **
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat- **      1-LOOP CORRECTIONS:    LPAR( 2) =      1     **
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat- **      HIGHER ORDERS:         LPAR( 3) =      3     **
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat- **      MW OR GMU FIXED:       LPAR( 4) =      2     **
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat- **      MASS PARAM FROM INPUT: LPAR( 5) =      0     **
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat- **      STRUCTURE FUNCTIONS:   LPAR( 6) = 123041     **
+--
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat: CROSS SECTION (WITH ERROR ESTIMATE) FOR THE CHANNEL:
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat-     CHARGED CURRENT / ELASTIC + SOFT&VIRTUAL     
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat-       1.9535E-04 +/-   1.9535E-08  NB
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat-      RELATIVE ACCURACY REQUIRED:   1.0D-04
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat-
+--
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat: ACTUAL CROSS SECTION VALUES (WITH ERROR ESTIMATES) AFTER INTEGRATION
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat- ** NEUTRAL CURRENT: 
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat-    VIRTUAL & SOFT CONTRIBUTIONS  SIG2     0.0000E+00 +/-   0.0000E+00  NB
+--
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat: ** TOTAL CROSS SECTION:                   3.0165E-04 +/-   5.5990E-08  NB
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat- *** WARNING: Q2 OUT OF RANGE FOR POLARIZED PDF: 
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat-     Q2<   8.0000E-01   OCCURED        1     TIMES DURING INTEGRATION 
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat-     Q2 WAS SET TO THE LOWER LIMIT Q2MIND =   8.0000E-01
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat-
+--
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat: Phase space might be reduced and the total cross section
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat- possibly be renormalized.
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat: The correct value for the total cross section is stored in ---> PARL(24) <---
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat- ********************************************************
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat- Cross-section from HERACLES = 0.30165     pb
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat- Estimated relative error =     0.19E-03
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat-
+--
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat: CROSS SECTIONS ACTUALLY APPLIED FOR SAMPLING (IN NANOBARN): 
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat: TOTAL CROSS SECTION,  SIGTOT =                3.0165E-04 +/- 5.5990E-08
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat-CHARGED CURRENT / ELASTIC + SOFT&VIRTUAL       1.9535E-04 +/- 1.9535E-08
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat-CHARGED CURRENT / LEPT. INITIAL STATE RADIAT.  1.0631E-04 +/- 5.2472E-08
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat- Warning: x= 0.4752 or W/y=    0.1441 outside QCD grid in event no.       0
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat-          weight on limit of grid used. Only first   10 warnings printed
+--
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat: Cross section was corrected: 
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat- Not all events could be hadronized. 
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat: Total cross section is now    SIGTOT =  0.30165E+00 pb
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat-
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat- Distribution of flavors (DJ):
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat-          d         u         s         c         b         t
+cc_g5_eMinus_pMinus_9x275_q2_3000to9000_out.dat-          0    997616         0      1812         0         0
+--
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat: **      BORN CROSS SECTION:    LPAR( 1) =      1     **
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat- **      1-LOOP CORRECTIONS:    LPAR( 2) =      1     **
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat- **      HIGHER ORDERS:         LPAR( 3) =      3     **
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat- **      MW OR GMU FIXED:       LPAR( 4) =      2     **
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat- **      MASS PARAM FROM INPUT: LPAR( 5) =      0     **
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat- **      STRUCTURE FUNCTIONS:   LPAR( 6) = 123041     **
+--
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat: CROSS SECTION (WITH ERROR ESTIMATE) FOR THE CHANNEL:
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat-     CHARGED CURRENT / ELASTIC + SOFT&VIRTUAL     
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat-       6.4144E-03 +/-   6.4144E-07  NB
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat-      RELATIVE ACCURACY REQUIRED:   1.0D-04
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat-
+--
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat: ACTUAL CROSS SECTION VALUES (WITH ERROR ESTIMATES) AFTER INTEGRATION
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat- ** NEUTRAL CURRENT: 
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat-    VIRTUAL & SOFT CONTRIBUTIONS  SIG2     0.0000E+00 +/-   0.0000E+00  NB
+--
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat: ** TOTAL CROSS SECTION:                   1.0321E-02 +/-   2.1131E-06  NB
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat- *** WARNING: Q2 OUT OF RANGE FOR POLARIZED PDF: 
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat-     Q2<   8.0000E-01   OCCURED        3     TIMES DURING INTEGRATION 
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat-     Q2 WAS SET TO THE LOWER LIMIT Q2MIND =   8.0000E-01
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat-
+--
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat: Phase space might be reduced and the total cross section
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat- possibly be renormalized.
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat: The correct value for the total cross section is stored in ---> PARL(24) <---
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat- ********************************************************
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat- Cross-section from HERACLES =  10.321     pb
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat- Estimated relative error =     0.20E-03
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat-
+--
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat: CROSS SECTIONS ACTUALLY APPLIED FOR SAMPLING (IN NANOBARN): 
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat: TOTAL CROSS SECTION,  SIGTOT =                1.0321E-02 +/- 2.1131E-06
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat-CHARGED CURRENT / ELASTIC + SOFT&VIRTUAL       6.4144E-03 +/- 6.4144E-07
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat-CHARGED CURRENT / LEPT. INITIAL STATE RADIAT.  3.9066E-03 +/- 2.0134E-06
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat- Warning: x= 0.2035 or W/y=    0.0817 outside QCD grid in event no.       0
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat-          weight on limit of grid used. Only first   10 warnings printed
+--
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat: Cross section was corrected: 
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat- Not all events could be hadronized. 
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat: Total cross section is now    SIGTOT =  0.10321E+02 pb
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat- Distribution of flavors (DJ):
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat-          d         u         s         c         b         t
+cc_g5_eMinus_pPlus_9x275_q2_1000to3000_out.dat-          0    490570         0      4692         0         0
+--
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat: **      BORN CROSS SECTION:    LPAR( 1) =      1     **
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat- **      1-LOOP CORRECTIONS:    LPAR( 2) =      1     **
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat- **      HIGHER ORDERS:         LPAR( 3) =      3     **
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat- **      MW OR GMU FIXED:       LPAR( 4) =      2     **
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat- **      MASS PARAM FROM INPUT: LPAR( 5) =      0     **
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat- **      STRUCTURE FUNCTIONS:   LPAR( 6) = 123041     **
+--
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat: CROSS SECTION (WITH ERROR ESTIMATE) FOR THE CHANNEL:
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat-     CHARGED CURRENT / ELASTIC + SOFT&VIRTUAL     
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat-       1.2497E-02 +/-   1.2497E-06  NB
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat-      RELATIVE ACCURACY REQUIRED:   1.0D-04
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat-
+--
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat: ACTUAL CROSS SECTION VALUES (WITH ERROR ESTIMATES) AFTER INTEGRATION
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat- ** NEUTRAL CURRENT: 
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat-    VIRTUAL & SOFT CONTRIBUTIONS  SIG2     0.0000E+00 +/-   0.0000E+00  NB
+--
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat: ** TOTAL CROSS SECTION:                   2.1440E-02 +/-   5.0045E-06  NB
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat- *** WARNING: Q2 OUT OF RANGE FOR POLARIZED PDF: 
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat-     Q2<   8.0000E-01   OCCURED       55     TIMES DURING INTEGRATION 
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat-     Q2 WAS SET TO THE LOWER LIMIT Q2MIND =   8.0000E-01
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat-
+--
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat: Phase space might be reduced and the total cross section
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat- possibly be renormalized.
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat: The correct value for the total cross section is stored in ---> PARL(24) <---
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat- ********************************************************
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat- Cross-section from HERACLES =  21.440     pb
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat- Estimated relative error =     0.23E-03
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat-
+--
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat: CROSS SECTIONS ACTUALLY APPLIED FOR SAMPLING (IN NANOBARN): 
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat: TOTAL CROSS SECTION,  SIGTOT =                2.1440E-02 +/- 5.0045E-06
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat-CHARGED CURRENT / ELASTIC + SOFT&VIRTUAL       1.2497E-02 +/- 1.2497E-06
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat-CHARGED CURRENT / LEPT. INITIAL STATE RADIAT.  8.9424E-03 +/- 4.8460E-06
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat- Warning: x= 0.2162 or W/y=    0.0037 outside QCD grid in event no.       0
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat-          weight on limit of grid used. Only first   10 warnings printed
+--
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat: Cross section was corrected: 
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat- Not all events could be hadronized. 
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat: Total cross section is now    SIGTOT =  0.21440E+02 pb
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat- Distribution of flavors (DJ):
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat-          d         u         s         c         b         t
+cc_g5_eMinus_pPlus_9x275_q2_100to1000_out.dat-          0    446836         0     17587         0         0
+--
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat: **      BORN CROSS SECTION:    LPAR( 1) =      1     **
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat- **      1-LOOP CORRECTIONS:    LPAR( 2) =      1     **
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat- **      HIGHER ORDERS:         LPAR( 3) =      3     **
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat- **      MW OR GMU FIXED:       LPAR( 4) =      2     **
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat- **      MASS PARAM FROM INPUT: LPAR( 5) =      0     **
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat- **      STRUCTURE FUNCTIONS:   LPAR( 6) = 123041     **
+--
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat: CROSS SECTION (WITH ERROR ESTIMATE) FOR THE CHANNEL:
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat-     CHARGED CURRENT / ELASTIC + SOFT&VIRTUAL     
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat-       8.1502E-04 +/-   8.1502E-08  NB
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat-      RELATIVE ACCURACY REQUIRED:   1.0D-04
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat-
+--
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat: ACTUAL CROSS SECTION VALUES (WITH ERROR ESTIMATES) AFTER INTEGRATION
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat- ** NEUTRAL CURRENT: 
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat-    VIRTUAL & SOFT CONTRIBUTIONS  SIG2     0.0000E+00 +/-   0.0000E+00  NB
+--
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat: ** TOTAL CROSS SECTION:                   1.2666E-03 +/-   2.3666E-07  NB
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat- *** WARNING: Q2 OUT OF RANGE FOR POLARIZED PDF: 
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat-     Q2<   8.0000E-01   OCCURED        2     TIMES DURING INTEGRATION 
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat-     Q2 WAS SET TO THE LOWER LIMIT Q2MIND =   8.0000E-01
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat-
+--
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat: Phase space might be reduced and the total cross section
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat- possibly be renormalized.
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat: The correct value for the total cross section is stored in ---> PARL(24) <---
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat- ********************************************************
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat- Cross-section from HERACLES =  1.2666     pb
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat- Estimated relative error =     0.19E-03
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat-
+--
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat: CROSS SECTIONS ACTUALLY APPLIED FOR SAMPLING (IN NANOBARN): 
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat: TOTAL CROSS SECTION,  SIGTOT =                1.2666E-03 +/- 2.3666E-07
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat-CHARGED CURRENT / ELASTIC + SOFT&VIRTUAL       8.1502E-04 +/- 8.1502E-08
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat-CHARGED CURRENT / LEPT. INITIAL STATE RADIAT.  4.5155E-04 +/- 2.2218E-07
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat- Warning: x= 0.4828 or W/y=    0.1871 outside QCD grid in event no.       0
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat-          weight on limit of grid used. Only first   10 warnings printed
+--
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat: Cross section was corrected: 
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat- Not all events could be hadronized. 
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat: Total cross section is now    SIGTOT =  0.12666E+01 pb
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat-
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat- Distribution of flavors (DJ):
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat-          d         u         s         c         b         t
+cc_g5_eMinus_pPlus_9x275_q2_3000to9000_out.dat-          0    997745         0      1712         0         0

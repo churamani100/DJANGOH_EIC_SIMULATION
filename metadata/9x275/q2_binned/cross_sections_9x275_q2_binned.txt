@@ -1,0 +1,12 @@
+## Cross Sections
+
+The corrected total cross sections reported by DJANGOH/HERACLES for the 9x275 Q²-binned charged-current DIS samples are:
+
+| Q² bin [GeV²] | Proton helicity sample | Total cross section [pb] |
+| ------------- | ---------------------- | -----------------------: |
+| 100–1000      | pPlus                  |                   21.440 |
+| 100–1000      | pMinus                 |                   9.5747 |
+| 1000–3000     | pPlus                  |                   10.321 |
+| 1000–3000     | pMinus                 |                   3.0338 |
+| 3000–9000     | pPlus                  |                   1.2666 |
+| 3000–9000     | pMinus                 |                  0.30165 |
