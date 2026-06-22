@@ -1,4 +1,4 @@
-## Cross Sections
+## Cross Sections from all card used
 
 The corrected total cross sections reported by DJANGOH/HERACLES for the 9x275 Q²-binned charged-current DIS samples are:
 
