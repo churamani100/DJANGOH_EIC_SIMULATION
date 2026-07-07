@@ -349,5 +349,5 @@ Expected output: none.
 ## Contact
 
 Churamani Paudel
-New Mexico State University / Jefferson Lab
-[paudel.churamani@gmail.com](mailto:paudel.churamani@gmail.com)
+New Mexico State University
+[cpaudel@nmsu.edu](mailto:cpaudel@nmsu.edu,churaman@jlab.org)
