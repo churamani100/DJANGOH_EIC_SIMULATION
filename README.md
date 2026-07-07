@@ -165,11 +165,7 @@ Charged-current DIS is enabled and neutral-current DIS is disabled.
 
 ## Generation
 
-Generation was performed in:
-
-```text
-/w/hallb-scshelf2102/clas12/cpaudel/EIC/g5_djangoh_test/djangoh_q2binned_9x275
-```
+How to generate?
 
 Example command:
 
